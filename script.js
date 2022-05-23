@@ -24,8 +24,6 @@ function carregar(){
 
     titulo.innerHTML = bom
 
-    hoje.innerHTML = `Hoje é ${data.getDay()}/${data.getMonth()}/${data.getFullYear()}`
-
 }
 
 
